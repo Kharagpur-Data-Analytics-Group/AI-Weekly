@@ -8,3 +8,7 @@ Medium Article Link: https://kdagiit.medium.com/linear-regression-ba3fe4ba38c0 <
 ## Logistic Regression
 The python script logistic_reg.py implements Logistic Regression algorithm from scratch on the breast cancer dataset that can be loaded from sklearn. </br>
 Medium Article Link: https://kdagiit.medium.com/logistic-regression-60194ba582e8 </br>
+
+## K-Nearest Neighbors
+The python script knn.py implements K-Nearest Neighbots algorithm from scratch on iris data imported from sklearn. </br>
+Medium Article Link: 
