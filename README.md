@@ -15,4 +15,4 @@ Medium Article Link: https://kdagiit.medium.com/k-nearest-neighbor-knn-algorithm
 
 ## Support Vector Machines
 The python script svm.py implements Support Vector Machines algorithm with Linear Kernel from scratch on a dummy dataset consisting of 6 data points, 3 in each class. </br>
-Medium Article Link: 
+Medium Article Link: https://kdagiit.medium.com/support-vector-machines-its-not-so-complicated-5ccf66278159 </br>
