@@ -16,3 +16,7 @@ Medium Article Link: https://kdagiit.medium.com/k-nearest-neighbor-knn-algorithm
 ## Support Vector Machines
 The python script svm.py implements Support Vector Machines algorithm with Linear Kernel from scratch on a dummy dataset consisting of 6 data points, 3 in each class. </br>
 Medium Article Link: https://kdagiit.medium.com/support-vector-machines-its-not-so-complicated-5ccf66278159 </br>
+
+## Naive Bayes
+The python notebook Naive_Bayes_From_Scratch.py implement the naive bayes algorithm from scratch on the DiabetesRF.csv dataset and the python notebook Text_Classification.py implement classification task on the 20newsgroups dataset. </br>
+Medium Article Link: 
